@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 100,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Smart FBX Materials",
+  "Description": "Editor FBX import with deterministic PBR texture matching and material repair. UE 5.5+.",
+  "Category": "Importers",
+  "CreatedBy": "Project Tools",
+  "CanContainContent": true,
+  "EnabledByDefault": true,
+  "Plugins": [
+    {"Name": "PythonScriptPlugin", "Enabled": true},
+    {"Name": "EditorScriptingUtilities", "Enabled": true}
+  ]
+}
